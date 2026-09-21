@@ -29,3 +29,4 @@ jobs:
       - name: Run tests
         run: |
           PYTHONPATH=. pytest -v
+# CI validation
